@@ -88,7 +88,7 @@ public class Board {
     	copy[secRow][secCol] = swap;
     	return copy;
     }
-    
+    // this bolean equals Object verifies if the board positions are equal in both the cases
     public boolean equals(Object y) {
     	//if(y == this) return true;
     	//if(y == null) return false;
