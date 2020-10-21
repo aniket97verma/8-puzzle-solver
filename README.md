@@ -46,3 +46,6 @@ A* Algorithm:
   
     e) push q on the closed list
     end (while loop)
+    
+## Branch and Bound Algorithm (LC Search) is another popular algorithm to solve the * Puzzle Problem but the most efficient and hence preferred algorithms is A* algorithm due to its heuristic search methodology....
+    
