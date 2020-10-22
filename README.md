@@ -47,5 +47,7 @@ A* Algorithm:
     e) push q on the closed list
     end (while loop)
     
-## Branch and Bound Algorithm (LC Search) is another popular algorithm to solve the * Puzzle Problem but the most efficient and hence preferred algorithms is A* algorithm due to its heuristic search methodology....
-    
+## Branch and Bound Algorithm (LC Search) is another popular algorithm to solve the 8 Puzzle Problem but the most efficient and hence preferred algorithms is A* algorithm due to its heuristic search methodology -
+    There are many searching algorithms such as Linear Search, Binary Search, Depth-First Search, or the Breadth-First Search. These searching algorithms fall into the category of uninformed search techniques i.e. these algorithms do not know anything about what they are searching for and where they should search for it. That’s why the name “uninformed” search. Uninformed searching takes a lot of time to search as it doesn’t know where to head and where the best chances of finding the element are.
+
+    Informed search is exactly opposite to the uninformed search. In this, the algorithm is aware of where the best chances of finding the element are and the algorithm heads that way! Heuristic search is an informed search technique. A heuristic value tells the algorithm which path will provide the solution as early as possible. The heuristic function is used to generate this heuristic value. Different heuristic functions can be designed depending on the searching problem. So Heuristic search is a technique that uses a heuristic value for optimizing the search and hence is more efficient.
